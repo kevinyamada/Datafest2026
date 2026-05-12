@@ -9,6 +9,10 @@ This project predicts which Type 2 diabetes patients are at higher risk of missi
 
 The project was completed for ASA DataFest 2026 using healthcare encounter data and presented as a finalist project.
 
+## Example Output
+
+![Distribution of Maximum Follow-Up Gap](outputs/final_01_distribution_max_gap.png)
+
 ## Business Problem
 
 Healthcare teams often have limited time and resources. When many patients require follow-up care, staff need a way to prioritize outreach.
@@ -38,6 +42,14 @@ The analysis focused on identifying eligible diabetes journeys and engineering f
 - Identified a high-risk tier with an 85.0% observed follow-up gap rate.
 - Proposed a targeted follow-up protocol for proactive scheduling and patient outreach.
 - Presented findings as part of ASA DataFest 2026 and reached finalist recognition.
+
+## Risk Tier Output
+
+![Risk Tiers](outputs/final_02_risk_tiers.png)
+
+## Social Risk Pattern
+
+![Social Risk Line Chart](outputs/plot_22_social_risk_line_white_clean.png)
 
 ## Tools
 
