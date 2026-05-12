@@ -23,8 +23,6 @@ The analysis focused on identifying eligible diabetes journeys and engineering f
 
 ## Methods
 
-The project included:
-
 - Data cleaning and preprocessing
 - Joining encounter-level data into patient journey-level records
 - Feature engineering across patient journeys
@@ -49,3 +47,16 @@ The project included:
 - Feature engineering
 - Random forest modeling
 - Healthcare analytics
+
+## What I Learned
+
+This project strengthened my ability to work with messy healthcare data, engineer useful features, and connect model results to a practical operational recommendation.
+
+It also improved my ability to explain technical findings to a non-technical audience under time pressure.
+
+## Next Steps
+
+- Test additional models such as logistic regression, gradient boosting, or regularized models
+- Add more interpretability through feature importance or SHAP-style explanations
+- Create a simple dashboard for risk tier monitoring
+- Validate the model on future patient journeys
